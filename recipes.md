@@ -113,3 +113,22 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Sugar Cookies
+
+Ingredients:
+- 3 cups flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup white sugar
+- 3 eggs
+- 2 tsp butter, softened
+
+Instructions:
+1. Preheat oven to 350°F
+2. Combine all dry ingredients in a bowl
+3. Mix in eggs and butter
+4. Drop a tablespoon amount onto a greased cookie sheet
+5. Bake for 8 minuets 
+6. Cool on wire rack
+7. Enjoy!
