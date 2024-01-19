@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Sugar Cookies] (#sugar-cookies)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -27,6 +28,23 @@ Instructions:
 3. Transfer mixture to a 9-inch pie plate or a small baking dish.
 4. Bake for 20-25 minutes or until lightly browned and bubbly.
 5. Serve hot with tortilla chips, pita chips, or crackers.
+
+### Buffalo Chicken Dip
+
+Ingredients:
+- 1 package cream cheese, softened
+- 1 cup chopped cooked chicken breast
+- 1.5 cup buffalo wing sauce
+- 1.5 cup ranch or blue cheese salad dressing
+- 2 cups shredded colby-monterey jack cheese
+- French bread baguette slices, celery ribs, or tortilla chips
+
+Instructions:
+- Preheat oven to 350°F 
+- Spread cream cheese into an ungreased shallow 1-qt baking dish 
+- Layer the dish with chicken, wing sauce and salad dressing, sprinke with cheese
+- Bake uncovered until cheese is melted. 20-25 min
+- Serve with baugette slices, celery ribs, or tortilla chips
 
 ### Bruschetta
 
